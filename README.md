@@ -2,9 +2,6 @@
 ## Covid-19 Live Data Web App
 I hope this website is useful : https://covid19-webapp.netlify.app/
 
-##
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
