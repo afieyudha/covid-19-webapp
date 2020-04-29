@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/59898ff9-f927-4a88-a5fa-3795811e2aa2/deploy-status)](https://app.netlify.com/sites/covid19-webapp/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/59898ff9-f927-4a88-a5fa-3795811e2aa2/deploy-status)](https://covid19-webapp.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
